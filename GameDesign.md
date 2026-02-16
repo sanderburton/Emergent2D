@@ -22,7 +22,7 @@ The focus of this is on extremely engaging combat. Just want to fight stuff and 
 - Challenging combat taking a hit is devastating, single enemy can kill you especially at the beginning. Which leads to the sense of scalability and emerging.
 - Unlockable attacks - tied to weapon build, unlocked separately in overworld. More powerful, but have downsides, such as cool downs or movement debuffs etc
 - Blocking - you can block with sword, but it is directional (limited angle, because its strong), and some things can't be blocked. No stamina - remember the power fantasy, you feel awesome when you block
-- Because blocking is strong, dodging is less so than in some games. You can dodge, but there are no i-frames. Some attacks are undodgeable, only blockable
+- Because blocking is strong, dodging is less so than in some games. You can dodge by jumping, but there are no i-frames. Some attacks are not jump-able, only blockable. A jump feels awesome due to the agile side-dodge like animation. Or head first dive-flip animation if not side-stepping. Jump attacks are awesome power sweep slams
 - 1v1s in beginning, but by the mid-end of a run you are fighting entire armies. I mean hundreds of enemies. It is not fair. But you can become very op
 
 ## Progression and Why am I playing
@@ -32,7 +32,7 @@ The focus of this is on extremely engaging combat. Just want to fight stuff and 
     - Weak but purely positive effects
     - Occasional map markers that point to permanent unlocks or the end of the run
     - Exp
-- Long term progression is based on 2 things:
+- Long term progression is based on 2 gameplay elements, and 1 story:
     - Endowed Sword upgrades & enchantments. The sword gains whispers of battle (like exp kind of) whenever it kills something
         - Upgrade altar (think master sword in stone or excalibur) in cabin. Before leaving you must wield it (with option to customize it first)
         - Upgrades are "equippable" meaning its not permanent, you can choose per run how to pimp the sword. Hilt of power makes it slow and powerful. Graceful etchings make it faster and less damaging, imbued flames make it fiery with more damage but blocking for more than a second can hurt yourself, skills of swordstress makes it so you start with one skill already, blade of illumination lights up dark areas, etc
@@ -41,15 +41,16 @@ The focus of this is on extremely engaging combat. Just want to fight stuff and 
         - You get 1..x rerolls per run
         - You get 1..x tears of fate per run. Crushing one lets you pick the next category of reward
         - etc
+    - The story is about you finding a way to break the affliction of death. Beating the goddess progresses you for the first 3 times, but after that its not enough to simply beat her. You must beat her with the flame equipped... you must gather a rune book from the other side of the map, then beat her to perform a ritual... etc. This is a variety element, but depends on the core game being so fun that its worth retrying.
 
 ## Run mechanics
 - Start with dark map, no POIs marked
 - Minimap - Marked POIs will be marked by goddess's grace effects in overworld. There is a menu to expand the minimap
 - World is infinite, difficulty scales with distance from cabin.
 - Running straight to the goal is a terrible idea, because you will be too weak to reach it, and if you do you will be too weak to beat the goddess
-- Target run length is 45min - 1hr
+- Target run length is 45min - 1hr (pausable). Earlier level runs will be shorter.
 - Start at lvl 1 each time (like league). You gain exp by killing enemies
-    - Level ups let you increase health, unlock a skill (dodge, block, extra combo attack, climb walls, etc), heal, perform a sacrifice (petition diety for a gift, by giving up dodge, block, max health, taking damage, combo attack, etc)
+    - Level ups let you increase max health, unlock a skill (dodge, block, extra combo attack, climb walls, etc), heal, perform a sacrifice (petition diety for a gift, by giving up dodge, block, max health, taking damage, combo attack, etc)
 - The goddess gets slightly further each time you beat her (not meaningful as far as running time, maybe adds 1-2 minutes of that, but meaningful as far as difficulty zone) to a cap (when all boss rewards are unlocked)
 
 ## Setting & Story
@@ -71,9 +72,7 @@ Option for permadeath, or a simple last minute transfer that makes it impossible
 - Music - a few basic things, calm, and in combat probably
 - Sound - just required things like clashes, sheathes, footsteps, some voice sounds like grunts and crowd sounds
 
-Weapon (sword) creator. This is the larger progression. Each run can unlock materials, lengths, handles, blade shapes, sheathes, engravings (procedural? O_O). Much easier than character creator. This type of art is much easier too.
-
-
+Weapon (sword) altar. Minimal visual effects like recolors and lighting, and vfx.
 
 ## Why it won't have:
 
