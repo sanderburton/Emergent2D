@@ -20,7 +20,6 @@ The focus of this is on extremely engaging combat. Just want to fight stuff and 
 
 ## Combat
 - Challenging combat taking a hit is devastating, single enemy can kill you especially at the beginning. Which leads to the sense of scalability and emerging.
-- Unlockable attacks - tied to weapon build, unlocked separately in overworld. More powerful, but have downsides, such as cool downs or movement debuffs etc
 - Blocking - you can block with sword, but it is directional (limited angle, because its strong), and some things can't be blocked. No stamina - remember the power fantasy, you feel awesome when you block
 - Because blocking is strong, dodging is less so than in some games. You can dodge by jumping, but there are no i-frames. Some attacks are not jump-able, only blockable. A jump feels awesome due to the agile side-dodge like animation. Or head first dive-flip animation if not side-stepping. Jump attacks are awesome power sweep slams
 - 1v1s in beginning, but by the mid-end of a run you are fighting entire armies. I mean hundreds of enemies. It is not fair. But you can become very op
@@ -52,6 +51,7 @@ The focus of this is on extremely engaging combat. Just want to fight stuff and 
 - Start at lvl 1 each time (like league). You gain exp by killing enemies
     - Level ups let you increase max health, unlock a skill (dodge, block, extra combo attack, climb walls, etc), heal, perform a sacrifice (petition diety for a gift, by giving up dodge, block, max health, taking damage, combo attack, etc)
 - The goddess gets slightly further each time you beat her (not meaningful as far as running time, maybe adds 1-2 minutes of that, but meaningful as far as difficulty zone) to a cap (when all boss rewards are unlocked)
+- Map markers are occasional drops from any enemy. The gold map marker shows the goddess, and is same rarity. Once it's revealed, nothing stops you from continuing to grind though. The probability of finding it increases if you are a certain distance from the start, and scales with enemies defeated
 
 ## Setting & Story
 - Environmental and isolated storytelling via text, clues, etc. Easy to implement, if the story is right it will add wonder and be a motivator to fight through it
