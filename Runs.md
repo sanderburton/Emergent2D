@@ -48,3 +48,30 @@ Skill tree based:
 - Cons: a repeatable OP strat ruins the fun
 
 With either of these, they are no go unless there is a mechanic to incentivize build difference between runs. Something less random.
+
+# Attempt 2 at designing this:
+- Main idea is reducing boring stat bumps with more engaging mechanics, and reducing randomness so players feel in control of how they want to play. They get some ability to plan, but still need to adapt
+- Base damage is balanced around not having many static "increase damage by x" effects. Instead the effects are more interesting, and the based damage feels good
+
+- 8 - 10 skill trees, only 3 are available for any given run
+    - The perks are emergent enough that any combinations from any trees can create synergies, or create anti-synergies
+    - They are written such that a single perk tree maxed out is almost always weaker than investing in multiple with intelligent choices
+
+- Instead of glorious victories being small stat bonuses, they are parts of perk points. 3 Combine into a perk point
+- Better rewards are same, random powerful effects with tradeoffs. Perk points and better rewards should be roughly equal in power, so that they can adapt to each other throughout the run
+- One of the long term randomness reducing rewards is ability to swap one of the trees for any other before leaving the cabin
+
+some fun effects that could be rewards or perks:
+- radius of slam attack is doubled
+- knockback is increased 5x
+- Enemies knocked back damage and knock back other enemies
+- Can charge attacks for up to 2x damage over a quick charge up
+- Enemies hit begin bleeding over time for x dps
+
+some ideas for perk trees:
+- power - knockback effects, radius increasing effects, power block effects, take/deal more damage, slower stronger hits
+- cunning - enemy tricking effects, stealth (invisibility cloak?) effects, defeated enemies explode
+- luck - critical strike effects, reward rarity effects
+- willpower - sword throwing/retrieving effects, damage taken reduced effects,
+- bloodthirst - killing an enemy provides a stacking buff that lasts 5 seconds, but your base state is weaker. Dying enemies scare nearby enemies, causing them to have a chance to flee or two freeze in fear. Bleed over time effect
+- Holy (need better name) - Dealing damage may cause enemies to stop and worship you. Enemies who are worshipping and survive long enough will fight for you. Sword gets a golden trail hue. Heal upon killing a worshipping enemy. Gain an ability that calls down righteous swings from above. treated as an attack in 3 locations ahead of you
